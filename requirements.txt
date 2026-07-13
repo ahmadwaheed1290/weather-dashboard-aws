@@ -1,1 +1,2 @@
-boto3
+# No external dependencies required
+# Uses Python built-in urllib for HTTP requests
